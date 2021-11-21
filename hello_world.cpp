@@ -9,7 +9,7 @@ int main() {
     std::cout << "Hello, world!" << endl;
 
     int number;
-    cout << "Enter a number: ";
+    cout << "Enter an integer: ";
     cin >> number;
 
     cout << "You entered " << number << endl;
