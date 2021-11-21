@@ -2,7 +2,6 @@
  * Reviewing some C++ basic code
 **/
 #include <iostream>
-
 using namespace std;
 
 class Book {
@@ -160,7 +159,6 @@ int main() {
     product *p2 = &apple;
     p2->price = 1.75;
     cout << apple.price << endl;
-
 
     return 0;
 }
